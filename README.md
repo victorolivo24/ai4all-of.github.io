@@ -65,4 +65,4 @@ This project was completed in collaboration with:
 - Sarah Toussaint  
 - Shirina Shaji Daniel  
 - **Victor Olivo**  
-- Xintong Yu
+- Elisa Yu
